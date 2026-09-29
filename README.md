@@ -10,4 +10,4 @@
 [กิจกรรม](activities(4).png)  
 [เกียรติบัตร](certificate.png)  
 [เกียรติบัตร](certificate(1).png)  
-[ปกหลัง](Back_cover.png)  
+[ปกหลัง](Backcover.png)  
